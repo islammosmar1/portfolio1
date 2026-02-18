@@ -56,7 +56,7 @@ const HeroSection = () => {
           {/* Scroll indicator */}
           <div className="flex flex-col items-center gap-2 animate-slide-up" style={{ animationDelay: '0.5s' }}>
             <Mouse className="w-6 h-6 text-muted-foreground animate-bounce" />
-            <span className="text-xs text-muted-foreground">Scroll Down</span>
+            <span className="text-xs text-muted-foreground">Scroll Down..</span>
           </div>
         </div>
       </div>
